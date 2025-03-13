@@ -1,2 +1,2 @@
 # Mi documentación bonita :(
-- M3 
+- M3
